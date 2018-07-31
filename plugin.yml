@@ -1,0 +1,18 @@
+main: com.ponysseus.teamchat.Main
+name: TeamChat
+version: 1.0
+commands: 
+  m:
+    description: Call a medic(Team chat)
+  gl:
+    description: Say good luck(Global chat)
+  gg:
+    description: Say good luck(Global chat)
+  hf:
+    description: Say have fun (Global chat)
+  d:
+    description: Say to your team that they should defend(Team chat)
+  a:
+    description: Say to your team that they should attack(Team chat)
+  g: 
+    description: let the other team see your message
